@@ -2,7 +2,7 @@ const fs = require('fs')
 const { solution } = require('./solution')
 
 const limit = 120
-const lines = 8
+const lines = 1000
 
 const min = 20
 const max = limit 

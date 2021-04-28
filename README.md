@@ -50,5 +50,6 @@ The following would be a valid split.
 - Day 4: 43 min, 29 min
 
 ## Assumptions: 
-`for t in times: 0 <= t (in minutes) <= limit`
-`0 <= n <= 10 * (10 ^ 5)`
+
+- `for t in times: 0 <= t (in minutes) <= limit`
+- `0 <= n <= 10 * (10 ^ 5)`

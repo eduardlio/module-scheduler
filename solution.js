@@ -20,7 +20,6 @@ function solution(data, limit, lines) {
   let cursor = 0;
   while(cursor < lines) {
     const moduleTime = timeStringToMins(data[cursor])
-    console.log(moduleTime)
 
     if((daySum + moduleTime) > limit) {
       days.push(buffer)
@@ -34,7 +33,6 @@ function solution(data, limit, lines) {
     cursor++
   }
   days.push(buffer)
-  console.log(days)
   return days.length
 }
 module.exports = {

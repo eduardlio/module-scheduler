@@ -17,14 +17,14 @@ Each entry is a string representing an amount of time a given learning module wi
 ```
 120
 8
-"30 min"
-"1 hr 5 min"
-"45 min"
-"51 min"
-"35 min"
-"1 hr 2 min"
-"43 min"
-"29 min"
+30 min
+1 hr 5 min
+45 min
+51 min
+35 min
+1 hr 2 min
+43 min
+29 min
 ```
 
 Result: 4
